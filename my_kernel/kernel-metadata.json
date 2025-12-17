@@ -4,5 +4,8 @@
   "code_file": "automation-posts.ipynb",
   "language": "python",
   "kernel_type": "notebook",
-  "is_private": true
+  "is_private": true,
+  "dataset_sources": [
+    "habitofit/cookies-habitofit-capcut-2"
+  ]
 }
